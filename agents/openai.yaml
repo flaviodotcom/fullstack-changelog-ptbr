@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fullstack Changelog PT-BR"
+  short_description: "Atualiza changelog de release PT-BR (frontend/backend)."
+  default_prompt: "Use $fullstack-changelog-ptbr para atualizar o changelog da nova versão em formato de tabela, com descrição em português, ponto final e validação de acentuação sem mojibake."
